@@ -1,0 +1,16 @@
+{
+  "name": "simple-react-modal-ocp14",
+  "version": "1.0.0",
+  "description": "Simple modal react componant made for school project",
+  "main": "simple-react-modal.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modal",
+    "react",
+    "component"
+  ],
+  "author": "Titouan Nougaret",
+  "license": "MIT"
+}
