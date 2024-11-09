@@ -1,6 +1,6 @@
 {
   "name": "simple-react-modal-ocp14",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple modal react componant made for school project",
   "main": "dist/simple-react-modal.js",
   "scripts": {
