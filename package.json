@@ -1,10 +1,11 @@
 {
   "name": "simple-react-modal-ocp14",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Simple modal react componant made for school project",
-  "main": "simple-react-modal.jsx",
+  "main": "dist/simple-react-modal.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
   },
   "keywords": [
     "modal",
@@ -12,5 +13,11 @@
     "component"
   ],
   "author": "Titouan Nougaret",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9"
+  }
 }
