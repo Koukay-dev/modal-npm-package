@@ -1,5 +1,7 @@
 # simple-react-modal
 
+node v18.16.1
+
 A simple, customizable React modal component that allows you to display content in a modal overlay. 
 
 ## Installation
